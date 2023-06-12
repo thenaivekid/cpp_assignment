@@ -33,9 +33,9 @@ public:
     }
 
     // does not work
-    void set_a(A a){
-        a.a = 20;
-    }
+    // void set_a(A a){
+    //     a.a = 20;
+    // }
 };
 
 int main(){
